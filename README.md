@@ -18,5 +18,5 @@ A simple command-line To-Do list application written in C. It allows users to ad
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-list-c.git
+   git clone https://github.com/RashmikaAkash/To-Do-List-Application-C.git
 
